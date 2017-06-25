@@ -1,0 +1,5 @@
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Shared\bin\Debug\LPA.Shared.dll
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Shared\bin\Debug\LPA.Shared.pdb
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Shared\bin\Debug\FluentValidator.dll
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Shared\obj\Debug\LPA.Shared.dll
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Shared\obj\Debug\LPA.Shared.pdb

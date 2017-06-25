@@ -1,0 +1,11 @@
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\bin\Debug\LPA.Domain.Test.dll
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\bin\Debug\LPA.Domain.Test.pdb
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\bin\Debug\FluentValidator.dll
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\bin\Debug\LPA.Domain.dll
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\bin\Debug\LPA.Shared.dll
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\bin\Debug\LPA.Domain.pdb
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\bin\Debug\LPA.Shared.pdb
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\obj\Debug\LPA.Domain.Test.csprojResolveAssemblyReference.cache
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\obj\Debug\LPA.Domain.Test.dll
+C:\Users\fabio_vwrrqp1\documents\visual studio 2015\Projects\LPA\LPA.Domain.Test\obj\Debug\LPA.Domain.Test.pdb

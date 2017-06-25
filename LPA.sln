@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPA.Domain", "LPA.Domain\LP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPA.Shared", "LPA.Shared\LPA.Shared.csproj", "{9909DEB7-E9BF-4373-A4CF-48DC0D6456AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPA.Domain.Test", "LPA.Domain.Test\LPA.Domain.Test.csproj", "{AFC82A61-0E8C-4533-A033-1A07B773FA92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9909DEB7-E9BF-4373-A4CF-48DC0D6456AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9909DEB7-E9BF-4373-A4CF-48DC0D6456AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9909DEB7-E9BF-4373-A4CF-48DC0D6456AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC82A61-0E8C-4533-A033-1A07B773FA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC82A61-0E8C-4533-A033-1A07B773FA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC82A61-0E8C-4533-A033-1A07B773FA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC82A61-0E8C-4533-A033-1A07B773FA92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
