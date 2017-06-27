@@ -46,6 +46,9 @@
     <Compile Include="Entities\User.cs" />
     <Compile Include="Enums\EOrderStatus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Value Objects\Document.cs" />
+    <Compile Include="Value Objects\Email.cs" />
+    <Compile Include="Value Objects\Name.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LPA.Shared\LPA.Shared.csproj">

@@ -1,4 +1,6 @@
-﻿using LPA.Domain.Entities;
+﻿using System.Runtime.InteropServices;
+using LPA.Domain.Entities;
+using LPA.Domain.Value_Objects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace LPA.Domain.Test
@@ -6,7 +8,8 @@ namespace LPA.Domain.Test
     [TestClass]
     public class OrderTest
     {
-        private readonly Customer _customer = new Customer("fabio", "rezende", "fabio.rezende@gmail.com", new User("fabiorezende", "senha"));
+      private readonly Customer _customer = new Customer(new Name("fabio", "rezende"), new Email("fabio.rezende@gmail.com"), new User("fabiorezende", "senha"), new Document("14582469655"));
+
 
         [TestMethod]
         [TestCategory("Order - New Order")]
@@ -36,11 +39,9 @@ namespace LPA.Domain.Test
         [TestCategory("Order - New Order")]
         public void Dado_uma_ordem_valida_deve_retornar_valor_correto()
         {
-            var user = new User("fabiorezende", "senha");
-            var customer = new Customer("fabio", "rezende", "fabio.rezende@gmail.com", user);
             var mouse = new Product("Mouse", 300, "mouse.img", 20);
 
-            var order = new Order(customer, 12, 2);
+            var order = new Order(_customer, 12, 2);
             order.AddItem(new OrderItem(mouse, 1));
 
             Assert.IsTrue(order.Total() == 310);
